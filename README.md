@@ -37,13 +37,16 @@ scikit-learn
 plotly
 pickle
 matplotlib
-shap```
+shap
+```
 ## Usage
 **Streamlit App**:
 ```
 cd streamlit_app/
-streamlit run Welcome.py```
+streamlit run Welcome.py
+```
 
 **Jupyter Notebook**:
 ```
-jupyter notebook .ipynb```
+jupyter notebook .ipynb
+```
