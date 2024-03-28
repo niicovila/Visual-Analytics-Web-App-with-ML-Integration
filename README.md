@@ -9,7 +9,7 @@ This project is a web app that provides exploratory data analysis and car price 
   1. **Data Exploration**: This page includes several interactive plots to visualize and analyze the data.
      
 
-[!EDA](https://github.com/niicovila/Visual-Analytics-Web-App-with-ML-Integration/assets/76247144/75d6e712-8d66-4f1e-8d26-d9f29a23741b](https://github.com/niicovila/Visual-Analytics-Web-App-with-ML-Integration/blob/main/assets/Explainability.mov)
+[!EDA]()
 
   2. **Predictive Model**: This feature simplifies the exploration of data by allowing users to select different features to obtain price predictions. Users can interactively choose the features they're interested in, such as mileage, year, or model, and receive instant predictions. These predictions are then conveniently displayed and stored in a table format, making it easy for users to compare and analyze the impact of different features on the predicted prices.
 
