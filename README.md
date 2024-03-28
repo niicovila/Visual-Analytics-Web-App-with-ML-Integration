@@ -27,7 +27,8 @@ https://github.com/niicovila/Visual-Analytics-Web-App-with-ML-Integration/assets
 
 ## Installation
 To run this project, you need to have Python 3.7 or higher and the following packages installed:
-´´´bash
+^
+```
 streamlit
 pandas
 numpy
@@ -36,13 +37,13 @@ scikit-learn
 plotly
 pickle
 matplotlib
-shap´´´
+shap```
 ## Usage
 **Streamlit App**:
-´´´bash
+```
 cd streamlit_app/
-streamlit run Welcome.py´´´
+streamlit run Welcome.py```
 
 **Jupyter Notebook**:
-´´´bash
-jupyter notebook .ipynb´´´
+```
+jupyter notebook .ipynb```
