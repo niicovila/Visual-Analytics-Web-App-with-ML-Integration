@@ -27,8 +27,7 @@ https://github.com/niicovila/Visual-Analytics-Web-App-with-ML-Integration/assets
 
 ## Installation
 To run this project, you need to have Python 3.7 or higher and the following packages installed:
-´´´
-streamlit
+´´´streamlit
 pandas
 numpy
 altair
@@ -40,8 +39,7 @@ shap
 ´´´
 ## Usage
 **Streamlit App**:
-´´´
-cd streamlit_app/
+´´´cd streamlit_app/
 streamlit run Welcome.py
 ´´´
 
